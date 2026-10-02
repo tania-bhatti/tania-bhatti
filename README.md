@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Tania Bhatti
+
+I'm a Computer Science and Design major at Northeastern University interested in interaction design and how I can create enjoyable user experiences through projects! I'm especially interested in frontend development and UI/UX.
+
 
 <!--
 **tania-bhatti/tania-bhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
